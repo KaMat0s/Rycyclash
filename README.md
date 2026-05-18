@@ -93,9 +93,6 @@ A tela inicial mostra:
 
 ```
 recyclash/
-├── .gitignore
-├── .gitattributes
-├── README.md
 └── src/
     ├── module-info.java
     └── RecyClash/
